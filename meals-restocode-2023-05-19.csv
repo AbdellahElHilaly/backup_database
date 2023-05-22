@@ -1,0 +1,6 @@
+id;name;description;user_id;quantity;image;category_id;created_at;updated_at
+1;ducimus;Et eum distinctio ea numquam sequi odio.;1;96;http://127.0.0.1:8000/media/images/64357e22b2552.jpg;4;2023-05-19 07:57:05;2023-05-19 07:57:05
+2;amet;Illo eligendi necessitatibus eos eligendi qui ex velit.;1;57;http://127.0.0.1:8000/media/images/64357e22b2552.jpg;3;2023-05-19 07:57:05;2023-05-19 07:57:05
+3;quis;Numquam sed inventore quia eius animi qui modi.;1;85;http://127.0.0.1:8000/media/images/64357e22b2552.jpg;2;2023-05-19 07:57:05;2023-05-19 07:57:05
+4;hic;Consequatur at laborum perferendis odit.;1;26;http://127.0.0.1:8000/media/images/64357e22b2552.jpg;2;2023-05-19 07:57:05;2023-05-19 07:57:05
+5;molestiae;Cum aut doloremque dolorem quaerat unde consequatur et iste.;1;48;http://127.0.0.1:8000/media/images/64357e22b2552.jpg;5;2023-05-19 07:57:05;2023-05-19 07:57:05
